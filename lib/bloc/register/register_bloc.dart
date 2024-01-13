@@ -4,7 +4,6 @@ import 'package:flutter_fic_app/data/models/request/register_request_model.dart'
 import 'package:freezed_annotation/freezed_annotation.dart';
 
 import '../../data/datasources/auth_remote_datasource.dart';
-import '../../data/models/requests/register_request_model.dart';
 
 part 'register_event.dart';
 part 'register_state.dart';
